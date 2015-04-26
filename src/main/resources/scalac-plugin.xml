@@ -1,0 +1,4 @@
+<plugin>
+	<name>guardedblocks</name>
+	<classname>com.softwaremill.guardedblocks.GuardedBlocksPlugin</classname>
+</plugin>
