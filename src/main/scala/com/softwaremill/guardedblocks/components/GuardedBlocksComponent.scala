@@ -1,7 +1,6 @@
 package com.softwaremill.guardedblocks.components
 
 import scala.tools.nsc._
-import scala.tools.nsc.ast.Printers
 import scala.tools.nsc.plugins.PluginComponent
 import scala.tools.nsc.transform._
 
