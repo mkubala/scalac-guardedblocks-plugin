@@ -13,6 +13,4 @@ class GuardedBlocksPlugin(val global: Global) extends Plugin {
 
   override val components: List[PluginComponent] = List(new GuardedBlocksComponent(global))
 
-
-
 }
