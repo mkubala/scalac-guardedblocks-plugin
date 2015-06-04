@@ -1,8 +1,0 @@
-object TestObj {
-
-  {
-    "asd"
-    "zxc"
-  }
-
-}
